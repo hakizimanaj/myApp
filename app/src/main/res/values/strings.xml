@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="find_antonym">Find antonym</string>
+    <string name="enter_word">Enter word</string>
+    <string name="enter_values">Enter Values</string>
+    <string name="find_antonyms">Find Antonyms</string>
+</resources>
